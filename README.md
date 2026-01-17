@@ -15,7 +15,7 @@ This repository contains beginner-friendly python mini projects created while le
   - Win / Lose messages
 
 ### 2. Encoder-Decoder Program
-    A simple text encoder and decoder that converts a message into a secret format and decodes     them back to the original text
+    A simple text encoder and decoder that converts a message into a secret format and decodes them back to the original text
 
   **Features:**
   - User input-based encode/decode
